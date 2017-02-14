@@ -1,2 +1,3 @@
 # hello-world
-MIS
+Babson MIS
+NothingNews
